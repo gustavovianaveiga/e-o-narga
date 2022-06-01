@@ -1,0 +1,35 @@
+.principal {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+
+.botaonarga {
+    height: 50px;
+    width: 120px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: green;
+    border: green 1px solid;
+}
+
+input {
+    margin: 10px
+}
+
+.botaosair {
+    height: 50px;
+    width: 120px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: red;
+    border: red 1px solid;
+}
+
+html,
+body {
+    height: 100%;
+}
